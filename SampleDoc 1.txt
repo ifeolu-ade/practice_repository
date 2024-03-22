@@ -1,1 +1,2 @@
+Sample text:
 This is to practice opening files in Github
